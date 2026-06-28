@@ -1,0 +1,73 @@
+body{
+  background-color: gray;
+  align-items: center;
+  text-align: center;
+}
+
+.prs{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2{
+  color: beige;
+  font-size: 27px;
+  text-align: center;
+}
+
+.up{
+  display: flex;
+  width: 40%;
+  margin: auto;
+  background-color: skyblue;
+  flex-direction: column;
+  padding: 15px;
+  border-radius: 12px;0
+  height: 100px;
+  border: 0.5px solid white;
+  box-shadow: 0px 0px 10px beige;
+  text-align: center;
+}
+
+a{
+  color: darkcyan;
+  font-size: 15px;
+  transition: 2s;
+}
+
+.phone{
+  color: blue;
+  size: 15px;
+}
+
+.photo{
+  font-size: 20px;
+  text-align: center;
+}
+
+img{
+  width: 200px;
+  border: 1px solid white;
+  border-radius: 20px;
+}
+.go{
+  font-size: 40px;
+  a{
+    font-size: 40px;
+  }
+}
+
+.container{
+  display: flex;
+  height: 300px;
+  border: 2px;
+  flex-direction: column;
+  justify-content: center;
+}
+.box{
+  width: 80px;
+  height: 80px;
+  background-color: beige;
+  margin: 10px;
+}
